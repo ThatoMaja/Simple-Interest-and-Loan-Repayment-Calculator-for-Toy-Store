@@ -80,7 +80,7 @@ An Android app designed to help a toy store owner, quickly calculate **simple in
 
 ---
 
-## 👩‍🏫 Use Case
+## Use Case
 
 Built to solve a **real-life business scenario** where a small business owner needs a fast, mobile solution to calculate loan costs — helping them make smarter inventory decisions and stay financially aware.
 
